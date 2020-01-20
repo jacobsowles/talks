@@ -1,2 +1,2 @@
 # Talks
-[Integrating yourself into a new team](https://docs.google.com/presentation/d/1c566Hw-0ubktx97F4JBJDejTZoH-ACv0jZApFV-mWbM/edit?usp=sharing)
+[Integrating yourself into a new team](https://drive.google.com/file/d/1dYgTL1CwFUH4XJEvgi8l_z-1E7bjhQl3/view?usp=sharing)
